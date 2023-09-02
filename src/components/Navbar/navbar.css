@@ -1,0 +1,41 @@
+/* Styling for navigation links */
+.nav-link {
+    color: #fff; /* Set text color to white */
+    opacity: 1; /* Set opacity to 1 (fully visible) */
+    text-decoration: none; /* Remove underlines from links */
+    text-transform: capitalize; /* Capitalize text */
+    line-height: 50px; /* Set the line height for vertical alignment */
+    transition: 0.5s; /* Apply a smooth transition effect */
+    justify-content: center; /* Horizontally center-align text */
+    align-items: center; /* Vertically center-align text */
+    margin: 0 20px; /* Add margin around links */
+    padding: 10px 30px; /* Add padding to links */
+  }
+  
+  /* Styling for the navbar container */
+  .navbar {
+    width: 100%;
+    position: fixed; /* Fix the navbar at the top of the viewport */
+    top: 0;
+    left: 0;
+    display: flex;
+    z-index: 9; /* Set the stacking order */
+    background: #1a1a1a; /* Set the background color */
+    font-size: 1.3rem; /* Set font size */
+    font-family: 'Poppins', sans-serif; /* Set font family */
+    border-radius: 5px; /* Add rounded corners to the navbar */
+  }
+  
+  /* Styling for hovered or active links */
+  .link a:hover, .link.active a {
+    opacity: 1; /* Set opacity to 1 (fully visible) */
+  }
+  
+  /* 
+  .header {
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: azure;
+  }
+  */
+  

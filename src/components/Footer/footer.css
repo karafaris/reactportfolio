@@ -1,0 +1,29 @@
+/* Styling for the footer section */
+.footer {
+  position: sticky; /* Keep the footer at the bottom of the viewport */
+  width: 100%;
+  /* height: 10vh; */
+  bottom: 0;
+  z-index: 1; /* Adjust the stacking order */
+  background-color: black; /* Set the background color to black */
+  color: white; /* Set the text color to white */
+  text-align: center; /* Center-align text within the footer */
+}
+
+/* Styling for the footer text */
+.footer-text {
+  margin-top: -15px; /* Adjust the top margin to align with the social media icons */
+}
+
+/* Styling for the social media icons in the footer */
+.social-media-icons-white a {
+  color: rgba(255, 255, 255, 0.55); /* Default color for social media icons */
+  font-size: 2rem; /* Set the font size of icons */
+  margin: 10px; /* Add spacing around the icons */
+  transition: color 0.3s; /* Add a transition for smooth color change on hover */
+}
+
+/* Styling for the social media icons on hover (changing to yellow) */
+.social-media-icons-white a:hover {
+  color: #fdbb2d; /* Change the color to yellow on hover */
+}

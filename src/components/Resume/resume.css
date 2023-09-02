@@ -1,0 +1,117 @@
+/* Importing the Poppins font from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+/* Styling for the .resume-sec class */
+.resume-sec {
+  color: #9689ae; /* Text color */
+  border: none; /* No border */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: 0.5s; /* Smooth transition effect */
+  font-family: "Poppins", "cursive"; /* Font family */
+  max-width: 100%; /* Maximum width */
+  height: 100vh; /* Full viewport height */
+  background-color: rgb(204, 207, 207); /* Background color */
+  padding-top: 70px; /* Top padding */
+  margin: 0 auto; /* Center horizontally */
+}
+
+/* Styling for buttons */
+button {
+  margin: 0 auto; /* Center horizontally */
+  border-radius: 10px; /* Rounded corners */
+  font-family: "Poppins", "cursive"; /* Font family */
+  font-weight: 600; /* Font weight */
+  text-align: center; /* Center-align text */
+  display: flex;
+  flex-direction: column; /* Arrange children in a column */
+  justify-content: center; /* Vertically center children */
+  align-items: center; /* Horizontally center children */
+  text-decoration: none; /* Remove underline from links */
+  padding: 15px; /* Padding around the button */
+  background: #020706; /* Background color */
+  color: aliceblue; /* Text color */
+  text-shadow: 1px 1px 1px #020706, /* Text shadow */
+    1px 2px 1px #020706,
+    1px 3px 1px #020706,
+    1px 4px 1px #020706,
+    1px 5px 1px #020706,
+    1px 6px 1px #020706,
+    1px 6px 3px hsl(0deg 0% 6% / 40%),
+    1px 10px 5px hsl(0deg 0% 6% / 20%),
+    1px 12px 15px hsl(0deg 0% 6% / 20%),
+    1px 18px 30px hsl(0deg 0% 6% / 40%);
+}
+
+/* Styling for buttons on hover */
+button:hover {
+  background: linear-gradient(90deg, #fdbb2d 10%, #9689ae 50%); /* Background gradient on hover */
+  box-shadow: 15px 15px 15px 5px rgba(78, 72, 77, 0.219); /* Apply box shadow on hover */
+  transform: translateY(-3px); /* Move button up slightly on hover */
+  width: 180px; /* Increase button width on hover */
+  border-top: 5px solid #0e3750; /* Add top border on hover */
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Styling for links */
+a:link,
+a:visited,
+a:active {
+  text-decoration: none; /* Remove underline from links */
+  border-color: none; /* No border color */
+}
+
+/* Styling for the .skills-section1 class */
+.skills-section1 {
+  display: flex; /* Display as flex container */
+  flex-wrap: wrap; /* Wrap items in a row */
+  flex-direction: row; /* Arrange items in a row */
+  justify-content: center; /* Horizontally center items */
+  align-items: center; /* Vertically center items */
+  font-weight: 500; /* Font weight */
+  font-size: 36px; /* Font size */
+  margin: 5px; /* Margin around the section */
+  padding: 5px; /* Padding around the section */
+  text-shadow: 1px 1px 1px #020706, /* Text shadow */
+    1px 2px 1px #020706,
+    1px 3px 1px #020706,
+    1px 4px 1px #020706,
+    1px 5px 1px #020706,
+    1px 6px 1px #020706,
+    1px 6px 3px hsl(0deg 0% 6% / 40%),
+    1px 10px 5px hsl(0deg 0% 6% / 20%),
+    1px 12px 15px hsl(0deg 0% 6% / 20%),
+    1px 18px 30px hsl(0deg 0% 6% / 40%);
+}
+
+/* Styling for unordered list items */
+ul li {
+  list-style-type: none; /* Remove list bullets */
+  margin: 5px; /* Margin around list items */
+  padding: 5px; /* Padding around list items */
+  font-size: 1.2rem; /* Font size */
+  font-weight: bolder; /* Font weight */
+  color: papayawhip; /* Text color */
+}
+
+/* Styling for the .skill class */
+.skill {
+  text-align: center; /* Center-align text */
+  padding: 5px; /* Padding around skill items */
+  text-shadow: 1px 1px 1px #020706, /* Text shadow */
+    1px 2px 1px #020706,
+    1px 3px 1px #020706,
+    1px 4px 1px #020706,
+    1px 5px 1px #020706,
+    1px 6px 1px #020706,
+    1px 6px 3px hsl(0deg 0% 6% / 40%),
+    1px 10px 5px hsl(0deg 0% 6% / 20%),
+    1px 12px 15px hsl(0deg 0% 6% / 20%),
+    1px 18px 30px hsl(0deg 0% 6% / 40%);
+}
+
+/* Media query for screens with a maximum width of 375px */
+@media only screen and (max-width: 375px) {
+  button {
+    padding: 10px; /* Reduce button padding on small screens */
+  }
+}
