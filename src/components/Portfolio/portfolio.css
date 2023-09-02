@@ -1,5 +1,5 @@
 /* Import the "Poppins" font from Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@100&display=swap');
 
 /* Define CSS variables */
 :root {
@@ -71,10 +71,10 @@ a .card:hover {
 
 /* Styling for card-title */
 .card-title {
-  color: rgba(62, 10, 38, 0.653);
+  color: purple;
   font-size: 22px;
-  font-style: italic;
-  font-family: fantasy;
+  font-style: regular;
+  font-family: Poppins;
   font-weight: 600;
   margin: -18px; /* Adjust margin (not recommended) */
 }
@@ -83,7 +83,7 @@ a .card:hover {
 .card-text {
   margin: 10px;
   background-color: black;
-  color: antiquewhite;
+  color: white;
   border-radius: 5px;
   padding: 10px;
 }
