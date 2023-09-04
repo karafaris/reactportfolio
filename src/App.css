@@ -1,42 +1,47 @@
-
 /* This will remove any margin or padding */
-/* body,html{
+/* Set max-width to 100% and ensure block display with a minimum height of 100vh for both body and html elements */
+body, html {
   max-width: 100%;
   display: block;
   min-height: 100vh;
-} */
-
-/* .App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
 
+/* Style for the .App-logo class */
+.App-logo {
+  height: 40vmin; /* Set the height to 40% of the viewport's smaller dimension */
+  pointer-events: none; /* Disable pointer events on this element */
+}
+
+/* Media query for devices that prefer reduced motion */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 20s linear; /* Apply a spinning animation */
   }
 }
 
+/* Style for the .App-header class */
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-color: #282c34; /* Set the background color to dark gray */
+  min-height: 100vh; /* Ensure a minimum height of 100% of the viewport height */
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Arrange children in a column */
+  align-items: center; /* Center children horizontally */
+  justify-content: center; /* Center children vertically */
+  font-size: calc(10px + 2vmin); /* Calculate font size based on viewport size */
+  color: white; /* Set text color to white */
 }
 
+/* Style for the .App-link class */
 .App-link {
-  color: #61dafb;
+  color: #61dafb; /* Set link color to a shade of blue */
 }
 
+/* Keyframes animation for spinning the .App-logo element */
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(0deg); /* Start with no rotation */
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(360deg); /* Rotate to 360 degrees for one full rotation */
   }
-} */
+}
