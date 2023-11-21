@@ -28,7 +28,7 @@ const About = () => {
           <h1 className="hero-heading">Kara Faris</h1>
 
           {/* Subtitle */}
-          <h2>Full Stack Developer</h2>
+          <h2>Search Engine Optimization Specialist & Full Stack Developer</h2>
 
           {/* Display the user's image */}
           <div>
@@ -38,8 +38,36 @@ const About = () => {
           {/* Description */}
           <p className="content">
             {/* User's introduction and description */}
-            I am a passionate and ambitious Full Stack Developer and UX/UI enthusiast currently residing in Kansas. With a strong drive for learning and creating applications, I bring prior experience in quality assurance and a keen desire to leverage my skills and expertise in a fast-paced development environment, aiming to further enhance my career.
-            As a web developer, my approach centers on mobile-first web development, and I specialize in crafting responsive web applications that significantly improve the user experience. I am committed to staying updated with industry trends and best practices, consistently working towards creating innovative solutions that meet the evolving needs of users and businesses.
+<b>**About: **</b>
+<br></br>
+I am Kara Faris, a dynamic and results-oriented SEO professional with a passion for driving digital excellence. My journey in the ever-evolving landscape of digital marketing has equipped me with a diverse skill set and a proven track record in SEO strategy, web development, and digital marketing operations.
+<br></br> <br></br>
+
+
+<b>**Education and Training:** </b>
+<br></br>
+I honed my technical skills at the University of Denver, completing an intensive Coding Boot Camp from April 2023 to October 2023. This program equipped me with a deep understanding of cutting-edge technologies and methodologies in web development.
+
+My academic journey also includes a Bachelor of Science degree in Mass Media with an emphasis in Advertising from the University of Missouri, St. Louis. This educational foundation laid the groundwork for my strategic thinking and creative problem-solving skills.
+<br></br><br></br>
+<b>**Professional Expertise:**</b>
+<br></br>
+In my recent role as an SEO & Web Developer Contractor at Yellow Bug, I conducted comprehensive SEO audits and developed strategies that resulted in impactful improvements for clients. Notable achievements include the successful development and deployment of client websites such as EnochRentals.com.
+
+As the Digital Marketing Operations Lead at Blue Tangerine Solutions, I conducted UX/UI audits, executed diverse marketing campaigns, and significantly improved agency efficiency by implementing and managing SEO strategies for clients. My role involved close collaboration with clients to ensure their marketing objectives were met with precision.
+
+In previous positions at Digital Strike, Motivation Technologies, and Location3 Media, I consistently demonstrated my ability to enhance client visibility across various channels, including Google My Business, Facebook, Apple, Bing, and Yelp. My strategic approach and utilization of tools like YEXT led to improved local visibility for over 60+ clients.
+<br></br><br></br>
+
+<b>**Skill Set:**</b>
+<br></br>
+My technical proficiency spans a wide array of tools and languages, including Google Analytics, Google Tag Manager, Jira & Spiceworks, HTML/CSS/Git, JavaScript, Bootstrap, APIs, JQuery, JSON, Node, and Photoshop. This comprehensive skill set allows me to navigate the complex landscape of digital marketing with confidence and agility.
+
+**Next Chapter:**
+As I embark on the next chapter of my professional journey, I am eager to bring my expertise, innovative mindset, and passion for excellence to a new opportunity. I am driven by the desire to contribute substantial value to an organization and make a meaningful impact in the field of SEO and web development.
+
+Connect with me to explore how my skills and experiences can contribute to the success of your organization. Let's create digital strategies that not only meet but exceed expectations.
+
           </p>
 
           {/* Email Me button */}
