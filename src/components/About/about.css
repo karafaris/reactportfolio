@@ -2,7 +2,7 @@
 
 /* Define custom CSS variables for color and font properties */
 :root {
-  --dark-purple: #202330;        /* Dark purple color */
+  --dark-purple: rgbargb(225, 225, 225);        /* Dark purple color */
   --light-purple: #7b84aa;      /* Light purple color */
   --color: rgba(255, 255, 255, 0.55);   /* Default text color with opacity */
   --hovercolor: rgba(255, 255, 255, 0.75);  /* Hover text color with opacity */
@@ -25,6 +25,7 @@
   flex-wrap: wrap;
   margin: 0;
   padding-top: 15px;
+  
 }
 
 /* Styles for images in the "about-me" section */
@@ -41,7 +42,7 @@ img {
   font-size: 2rem;
   font-weight: 500;
   letter-spacing: 2px;
-  background: #0a0202; /* Background color gradient for text */
+  background: linear-gradient(90deg, #fdbb2d 10%, #9689ae 50%); /* Gradient background for buttons */
   -webkit-background-clip: text; /* Clip text to background */
   -webkit-text-fill-color: transparent; /* Transparent text */
   text-align: center;
@@ -49,10 +50,12 @@ img {
   padding: 0px;
 }
 
+
 /* Styles for secondary headings */
 h2 {
   font-weight: 500;
   font-family: "Dancing Script";
+  text-align: center;
   color: var(--color); /* Default text color with opacity */
   text-shadow: /* Text shadow for headings */
     1px 1px 1px #020706,
@@ -68,11 +71,11 @@ h2:hover {
 
 /* Styles for content text */
 .content {
-  font-size: 20px;
+  font-size: 12px;
   margin-bottom: 5rem;
   word-wrap: break-word;
   text-align: center;
-  color: aliceblue; /* Text color */
+  color: rgb(7, 7, 7); /* Text color */
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 300;
   margin-bottom: 5px;
@@ -93,7 +96,7 @@ a.btn {
 
 /* Styles for social media icons */
 .social-media-icons a {
-  color: ghostwhite; /* Social media icon color */
+  color: rgb(0, 0, 0); /* Social media icon color */
   font-size: 2rem;
   margin: 10px;
 }
