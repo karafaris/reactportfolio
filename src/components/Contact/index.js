@@ -37,13 +37,13 @@ function ContactForm() {
 
   // Function to send an email
   const sendEmail = () => {
-    emailjs.sendForm('service_58eeuha', 'template_eaoiirp', form.current, '7moyyXkvrDcFvYmwA')
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
-  };
+    emailjs.sendForm('service_8il0cjk', 'template_dkazlla', form.current, '730062881061-trop0u4cmen3b2q6of17fj4o9klcfudr.apps.googleusercontent.com')
+        .then((result) => {
+            console.log(result.text);
+        }, (error) => {
+            console.log(error.text);
+        });
+   };
 
   // Function to handle form submission
   const handleFormSubmit = (e) => {
