@@ -37,7 +37,7 @@ function ContactForm() {
 
   // Function to send an email
   const sendEmail = () => {
-    emailjs.sendForm('service_8il0cjk', 'template_dkazlla', form.current, '730062881061-trop0u4cmen3b2q6of17fj4o9klcfudr.apps.googleusercontent.com')
+    emailjs.sendForm('service_8il0cjk', 'template_dkazlla', form.current, 'NQsCIly7ndwQ2FgeH')
         .then((result) => {
             console.log(result.text);
         }, (error) => {
