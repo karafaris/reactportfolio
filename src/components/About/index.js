@@ -32,7 +32,7 @@ const About = () => {
 
           {/* Display the user's image */}
           <div>
-            <img src={image} alt="Asha Chakre" />
+            <img src={image} alt="Kara Faris" />
           </div>
 
           {/* Description */}
