@@ -62,8 +62,10 @@ In previous positions at Digital Strike, Motivation Technologies, and Location3 
 <b>**Skill Set:**</b>
 <br></br>
 My technical proficiency spans a wide array of tools and languages, including Google Analytics, Google Tag Manager, Jira & Spiceworks, HTML/CSS/Git, JavaScript, Bootstrap, APIs, JQuery, JSON, Node, and Photoshop. This comprehensive skill set allows me to navigate the complex landscape of digital marketing with confidence and agility.
-
+<br></br>
+<br></br>
 **Next Chapter:**
+<br></br>
 As I embark on the next chapter of my professional journey, I am eager to bring my expertise, innovative mindset, and passion for excellence to a new opportunity. I am driven by the desire to contribute substantial value to an organization and make a meaningful impact in the field of SEO and web development.
 
 Connect with me to explore how my skills and experiences can contribute to the success of your organization. Let's create digital strategies that not only meet but exceed expectations.
