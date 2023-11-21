@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e5b9adb9.css",
+    "main.js": "/react-portfolio/static/js/main.acdba64e.js",
+    "static/media/KaraFaris_Resume2023.pdf": "/react-portfolio/static/media/KaraFaris_Resume2023.6825a829761f1c011a2d.pdf",
+    "static/media/texteditor.png": "/react-portfolio/static/media/texteditor.69d8a48b228c12e81187.png",
+    "static/media/mypic.png": "/react-portfolio/static/media/mypic.a8a34eaf3b2a145a84d3.png",
+    "static/media/employeetracker.png": "/react-portfolio/static/media/employeetracker.54781a999b615b824aec.png",
+    "static/media/work-day-planner.png": "/react-portfolio/static/media/work-day-planner.02d4f0ab5ca2d43bb2eb.png",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.4fd1127d70af67b59c6c.png",
+    "static/media/queerresourcedatabase.png": "/react-portfolio/static/media/queerresourcedatabase.50364b703c8981dedae2.png",
+    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.43c512e09d13364c37b5.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.c9d894f64a1d995dfc33.png",
+    "static/media/flightracker.png": "/react-portfolio/static/media/flightracker.2960394f4efe8be3dde2.png",
+    "static/media/newfile_animated.svg": "/react-portfolio/static/media/newfile_animated.25ddfc12597f2da14dee56d391c11a47.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.e5b9adb9.css.map": "/react-portfolio/static/css/main.e5b9adb9.css.map",
+    "main.acdba64e.js.map": "/react-portfolio/static/js/main.acdba64e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b9adb9.css",
+    "static/js/main.acdba64e.js"
+  ]
+}
