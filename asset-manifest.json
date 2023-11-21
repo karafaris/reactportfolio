@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.e5b9adb9.css",
-    "main.js": "/reactportfolio/static/js/main.418936a0.js",
+    "main.css": "/reactportfolio/static/css/main.48ca08b9.css",
+    "main.js": "/reactportfolio/static/js/main.7c3465f2.js",
     "static/media/KaraFaris_Resume2023.pdf": "/reactportfolio/static/media/KaraFaris_Resume2023.6825a829761f1c011a2d.pdf",
     "static/media/texteditor.png": "/reactportfolio/static/media/texteditor.69d8a48b228c12e81187.png",
     "static/media/mypic.png": "/reactportfolio/static/media/mypic.a8a34eaf3b2a145a84d3.png",
@@ -14,11 +14,11 @@
     "static/media/flightracker.png": "/reactportfolio/static/media/flightracker.2960394f4efe8be3dde2.png",
     "static/media/newfile_animated.svg": "/reactportfolio/static/media/newfile_animated.25ddfc12597f2da14dee56d391c11a47.svg",
     "index.html": "/reactportfolio/index.html",
-    "main.e5b9adb9.css.map": "/reactportfolio/static/css/main.e5b9adb9.css.map",
-    "main.418936a0.js.map": "/reactportfolio/static/js/main.418936a0.js.map"
+    "main.48ca08b9.css.map": "/reactportfolio/static/css/main.48ca08b9.css.map",
+    "main.7c3465f2.js.map": "/reactportfolio/static/js/main.7c3465f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b9adb9.css",
-    "static/js/main.418936a0.js"
+    "static/css/main.48ca08b9.css",
+    "static/js/main.7c3465f2.js"
   ]
 }
