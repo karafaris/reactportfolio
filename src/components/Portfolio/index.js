@@ -20,7 +20,7 @@ const Portfolio = () => {
       image: codequiz,
       description:"Created a timed quiz and set up a responsive interface",
       githuburl: "https://karafaris.github.io/WebAPIs/",
-      deployurl: "https://karafaris.github.io/WeatherDashboard/",
+      deployurl: "https://github.com/karafaris/WebAPIs.git",
     },
     {
       title: "Weather Dashboard",
